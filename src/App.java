@@ -98,6 +98,10 @@ public class App {
         linkedhashnumbers.add(765);
         linkedhashnumbers.add(76);
         System.out.println(linkedhashnumbers);
+        System.out.println("Helo world");
+        System.out.println("Helo world");
+        System.out.println("Helo world");
+        System.out.println("Helo world");
 
     }
 }
